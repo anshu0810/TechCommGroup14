@@ -1,4 +1,4 @@
-# API TITLE
+# Winnipeg Sports API
 *Created by Group 14*
 
 ## Description
@@ -18,11 +18,17 @@ This is a restAPI that basically giving sports information in Winnipeg. It's eve
 
 ## Resources
 > "gameInfo":
+>
 >   {
+>
 >     "teamName": "Winnipeg Jets",
+>
 >     "when": "2020-11-20-19:00UTC",
+>
 >     "opponent": "Calgary Flames",
+>
 >     "where": "Winnipeg"
+>
 >   }
 >     
 >
