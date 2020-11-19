@@ -20,8 +20,7 @@
 **playsTonight(teamName)**: returns a true or false if a team is playing tonight.
 
 ## Resources
-> "gameInfo":
->
+> "results":
 >   {
 >
 >     "teamName": "Winnipeg Jets",
@@ -34,7 +33,6 @@
 >
 >   }
 >     
->
 
 ### Sample requests
 
