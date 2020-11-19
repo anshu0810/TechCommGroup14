@@ -14,7 +14,7 @@ This is a restAPI that basically giving sports information in Winnipeg. It's eve
 
 **roster**(*teamname, year*) : returns a list of the team members in the selected year.
 
-**playsTonight(teamName)**: returns a true or false if a team is playing tonight.
+**playsTonight**(*teamName*): returns a true or false if a team is playing tonight.
 
 ## Resources
 
