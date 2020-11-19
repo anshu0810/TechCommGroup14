@@ -4,7 +4,7 @@
 ## Description
 - **Manitoba sports event API**
 
-- This is a restful API which is used to people for giving information about sports match that going on in Winnipeg. It gives the information about the team that you are looking for such as schedule of the team, roster and line up of the match tonight.
+- This is a restful API which is used to people for giving information about sports match that going on in Winnipeg. It gives the information about the team that you are looking for, roster and also line up of the match.
 
 ## Parameters
 **teamName** (String) The name of the team
@@ -20,7 +20,7 @@
 **playsTonight(teamName)**: returns a true or false if a team is playing tonight.
 
 ## Resources
-> "results":
+> "game":
 >   {
 >
 >     "teamName": "Winnipeg Jets",
@@ -32,7 +32,21 @@
 >     "where": "Winnipeg"
 >
 >   }
->     
+
+> "roster":
+>   {
+> 
+>   "teamName": "Winnipeg Jets",
+>
+>   "players": [ 
+>     "Tobias Enstrom", 
+>     "Dustin Byfulgien",
+>     "Andrew Ladd"
+>   ],
+>
+>   "year": "2018"
+>   }
+>       
 
 ### Sample requests
 
