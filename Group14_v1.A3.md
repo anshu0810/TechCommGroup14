@@ -2,7 +2,9 @@
 *Created by Group 14*
 
 ## Description
-This is a restAPI that basically giving sports information in Winnipeg. It's everything you need to know for enjoying sports matches in Winnipeg such as match line up, date, and location.
+- **Manitoba sports event API**
+-This is a restful API which is used to people for giving information about sports match that going on in Winnipeg. It gives the information about the team that you are looking for, roster, and also line up of the match.
+
 ## Parameters
 **teamName** (String) The name of the team
 
